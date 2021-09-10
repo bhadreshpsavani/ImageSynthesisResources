@@ -11,6 +11,8 @@ Fasion Gen Competition:
 * [ICCV17-fashionGAN](https://github.com/zhusz/ICCV17-fashionGAN)
 
 ### Additional Resources:
+* [DeepFashion_Try_On](https://github.com/switchablenorms/DeepFashion_Try_On)
+* [SieveNet](https://github.com/levindabhi/SieveNet)
 * [fashion_gan](https://github.com/sonynka/fashion_gan)
 * [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 * [ICCV17-fashionGAN](https://github.com/zhusz/ICCV17-fashionGAN)
