@@ -14,9 +14,15 @@ Fasion Gen Competition:
 * [Google site](https://sites.google.com/view/cvcreative/fashion-gen)
 * [ICCV17-fashionGAN](https://github.com/zhusz/ICCV17-fashionGAN)
 
+## Dataset:
+* [ICCV17-fashion](https://github.com/zhusz/ICCV17-fashionGAN)
+* [FashionTryOn dataset comprising 28,714](https://drive.google.com/drive/folders/1mJbNF_vPDiihoPQ7VqyXsIkE1yB7YjU3)
+
 ### Additional Resources:
 * [DeepFashion_Try_On](https://github.com/switchablenorms/DeepFashion_Try_On)
 * [SieveNet](https://github.com/levindabhi/SieveNet)
 * [fashion_gan](https://github.com/sonynka/fashion_gan)
 * [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 * [ICCV17-fashionGAN](https://github.com/zhusz/ICCV17-fashionGAN)
+* [Cool-Fashion-Papers](https://github.com/lzhbrian/Cool-Fashion-Papers)
+* [fashiontryon](https://fashiontryon.wixsite.com/fashiontryon)
