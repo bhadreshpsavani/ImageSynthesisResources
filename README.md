@@ -2,10 +2,11 @@
 
 
 ## Create A Body:
-* 
 
 ## Fashion and Clothing Based Resources
 
+* [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai)
+* [image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers)
 * [impressive-applications-of-generative-adversarial-networks](https://machinelearningmastery.com/impressive-applications-of-generative-adversarial-networks/)
 * [Be Your Own Prada: Fashion Synthesis with Structural Coherence](https://arxiv.org/pdf/1710.07346.pdf)
 
