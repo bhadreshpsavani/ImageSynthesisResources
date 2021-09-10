@@ -5,5 +5,5 @@
 
 ##  Gererate Image from text Description:
 Fasion Gen Competition:
-[Google site](https://sites.google.com/view/cvcreative/fashion-gen)
-[ICCV17-fashionGAN](https://github.com/zhusz/ICCV17-fashionGAN)
+* [Google site](https://sites.google.com/view/cvcreative/fashion-gen)
+* [ICCV17-fashionGAN](https://github.com/zhusz/ICCV17-fashionGAN)
