@@ -7,3 +7,8 @@
 Fasion Gen Competition:
 * [Google site](https://sites.google.com/view/cvcreative/fashion-gen)
 * [ICCV17-fashionGAN](https://github.com/zhusz/ICCV17-fashionGAN)
+
+## Additional Resources:
+* [fashion_gan](https://github.com/sonynka/fashion_gan)
+* [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+* [ICCV17-fashionGAN](https://github.com/zhusz/ICCV17-fashionGAN)
